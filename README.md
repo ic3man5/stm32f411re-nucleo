@@ -4,7 +4,7 @@ This repository contains all my work attempting to learn the STM32F4 Platform fr
 ###Contents
  - **First** - Blinks The LED with the Systick timer
  - **Second** - Same as first project but adds monitoring Internal Temp Sensor through ADC
- - **Third** - TODO
+ - **Third** - Initializes the RTC using the LSI
  - **Fourth** - TODO
 
 ###License
